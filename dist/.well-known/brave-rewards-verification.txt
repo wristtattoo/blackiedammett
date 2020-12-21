@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: blackiedammett.com
+Token: 6321f279454ce4f7ea1076c4c8bf601bd3908fac45057c014f934adff6b510ba
